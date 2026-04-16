@@ -26,7 +26,7 @@ This repository contains **only my contribution (Naive Bayes model)**.
 
 ## Output
 
-![Confusion Matrix](confusion_matrix.png)
+confusion_matrix.png
 
 ## Key Insight
 
